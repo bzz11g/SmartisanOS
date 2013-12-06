@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbums">
-        <item quantity="other">%d albums, </item>
-        <item quantity="zero">0 album, </item>
-        <item quantity="one">1 album, </item>
+        <item quantity="other">%d альбомов, </item>
+        <item quantity="zero">0 альбомов, </item>
+        <item quantity="one">1 альбом, </item>
     </plurals>
     <plurals name="Nsongs">
-        <item quantity="other">%d songs</item>
-        <item quantity="zero">0 song</item>
-        <item quantity="one">1 song</item>
+        <item quantity="other">%d песен</item>
+        <item quantity="zero">0 песен</item>
+        <item quantity="one">1 песня</item>
     </plurals>
     <plurals name="Stars">
-        <item quantity="other">stars</item>
-        <item quantity="one">star</item>
+        <item quantity="other">звезд</item>
+        <item quantity="one">звезда</item>
     </plurals>
 </resources>
