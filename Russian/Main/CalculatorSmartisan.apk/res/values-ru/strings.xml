@@ -2,7 +2,7 @@
 <resources>
     <string name="ga_trackingId">UA-41757130-12</string>
     <string name="Rad">Rad</string>
-    <string name="app_name">Calculator</string>
+    <string name="app_name">Калькулятор</string>
     <string name="error">Error</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
@@ -50,10 +50,10 @@
     <string name="sqrt">√</string>
     <string name="power">^</string>
     <string name="factorial">!</string>
-    <string name="basic">Basic panel</string>
-    <string name="advanced">Advanced panel</string>
-    <string name="clear_history">Clear history</string>
-    <string name="text_copied_toast">Text copied.</string>
+    <string name="basic">Базовый режим</string>
+    <string name="advanced">Расширенный режим</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="text_copied_toast">Тескт скопирован</string>
     <string name="leftParenDesc">left parenthesis</string>
     <string name="rightParenDesc">right parenthesis</string>
     <string name="factorialDesc">factorial</string>
