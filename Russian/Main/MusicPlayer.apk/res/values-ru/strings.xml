@@ -57,7 +57,6 @@
     <string name="delete_track">Удалить песню</string>
     <string name="listview_header_list">Список</string>
     <string name="listview_header_tile">Сетка</string>
-    <string name="selected_item_format">(fenzi/fenmu) songs chosen</string>
     <string name="cloud_music">Облако</string>
     <string name="sort_by_song_name">Имя</string>
     <string name="sort_by_song_score">Рейтинг</string>
