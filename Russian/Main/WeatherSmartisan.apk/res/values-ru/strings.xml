@@ -25,7 +25,7 @@
     <string name="no">Нет</string>
     <string name="network_dialog_title">Таймаут соединения</string>
     <string name="network_dialog_content">Пожалуйста, попробуйте снова</string>
-    <string name="real_feel_des">Ощущаемая температура - показатель, скорректированный на основании влажности и скорости ветра</string>
+    <string name="real_feel_des">Показатель, скорректированный на основании влажности и скорости ветра</string>
     <string name="compare_to_yesterday">num type</string>
     <string name="colder">Холоднее</string>
     <string name="warmer">Теплее</string>
@@ -34,7 +34,7 @@
     <string name="network_not_avaiable">Таймаут соединения</string>
     <string name="wind_dir">Ветер</string>
     <string name="wind_power">Скорость ветра</string>
-	<string name="compare_no_data">Нет информации о погоде для сравнения</string>
+    <string name="compare_no_data">Нет информации о погоде для сравнения</string>
     <string name="weather_text_00">Ясно</string>
     <string name="weather_text_01">Облачно</string>
     <string name="weather_text_02">Пасмурно</string>
